@@ -10,4 +10,4 @@ Main Task: it's also Generates Barcode which can be used on
 products to show that they can easy to generate Bill
 
 
-[![Emart-Project](https://img.youtube.com/vi/jQ8dZwTw8wQ)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+[![Emart-Project](https://img.youtube.com/vi/6_GTFkQKcZM&t=74s)](https://www.youtube.com/watch?v=6_GTFkQKcZM&t=74s)
